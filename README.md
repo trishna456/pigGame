@@ -1,4 +1,3 @@
-/*
 GAME RULES: PIG GAME
 
 - The game has 2 players, playing in rounds
@@ -7,4 +6,4 @@ GAME RULES: PIG GAME
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLOBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
 
-*/
+You can download the source code and open the index.html file in a browser to play the game!
